@@ -59,6 +59,11 @@ For best results getting help with configuration and troubleshooting, please use
 - Facebook Group ["Marlin Firmware for 3D Printers"](https://www.facebook.com/groups/3Dtechtalk/)
 - [Marlin Configuration](https://www.youtube.com/results?search_query=marlin+configuration) on YouTube
 
+## Guides and reference materials
+
+- [Firmware Installation Instructions](https://github.com/frolbel/Marlin-for-JGAurora-A5/blob/2.0.x/firmware/Firmware%20Installation%20Instructions.md)
+- [Flashing a new bootloader on the A5](https://github.com/frolbel/Marlin-for-JGAurora-A5/blob/2.0.x/firmware/Flashing%20a%20new%20bootloader%20on%20the%20A5.md)
+
 ## Credits
 
 The current Marlin dev team consists of:
