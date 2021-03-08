@@ -4,6 +4,7 @@
 2\. Connect ISP programmer to motherboard.  
 ![](https://jgaurorawiki.com/_media/a5/mks_gen_l_icsp_port.jpg)
 ![](https://jgaurorawiki.com/_media/a5/mks_gen_l_icsp.png)
+
 3\. Unzip the [avrdude.zip](https://github.com/frolbel/Marlin-for-JGAurora-A5/blob/2.0.x/tools/avrdude.zip "https://github.com/frolbel/Marlin-for-JGAurora-A5") into a folder such for example "foo" (see also [here](http://www.nongnu.org/avrdude/ "http://www.nongnu.org/avrdude/")).  
 4\. Copy the [stk500boot_v2_mega2560_UART1_115200_16000000L.hex](https://github.com/frolbel/Marlin-for-JGAurora-A5/blob/2.0.x/firmware/stk500boot_v2_mega2560_UART1_115200_16000000L.hex "https://github.com/frolbel/Marlin-for-JGAurora-A5") to the foo folder.  
 5\. Open Command Prompt (select the Start button and type cmd).  
